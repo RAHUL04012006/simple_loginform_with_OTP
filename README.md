@@ -82,6 +82,3 @@ The application will be available at `http://localhost:5000`
 - CSRF protection (Flask-WTF)
 - Error handling pages
 
-## License
-
-[MIT License](LICENSE)
